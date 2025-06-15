@@ -5,6 +5,11 @@
 ⚠️ **Note:** Backend services are currently offline to avoid unnecessary AWS hosting costs.  
 However, both the frontend and backend codebases are available for review.
 
+  <img src="./images/python.png" width="100" alt="React logo"/>
+  <img src="./images/react.png" width="100" alt="React logo"/>
+  <img src="./images/docker.png" width="80" alt="React logo"/>
+
+
 ---
 ## About the Project
 
@@ -15,7 +20,6 @@ at the University of Waikato. I contributed as the frontend developer, while bac
 
 - 🌐 [Frontend Repository (React.js)](https://github.com/hinait/Nutrition_website_frontend)
 - 🔧 [Backend Repository (Python)](https://github.com/hinait/Nutrition_website_backend)
-
 ---
 
 ##  System Architecture
@@ -64,7 +68,7 @@ Will be updated later.
 
 ---
 
-## 📦 Local Deployment (Optional)
+## Local Deployment (Optional)
 
 Clone both repositories and follow individual README instructions to run frontend/backend locally.
 
