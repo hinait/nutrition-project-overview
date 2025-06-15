@@ -6,6 +6,10 @@
 However, both the frontend and backend codebases are available for review.
 
 ---
+## About the Project
+
+This fullstack cloud application was developed as part of COMPX527 – Secure Cloud Application Engineering
+at the University of Waikato. I contributed as the frontend developer, while backend services were developed by my teammates.
 
 ##  Project Repositories
 
