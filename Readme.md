@@ -46,7 +46,12 @@ This project follows a modular architecture with cloud deployment on AWS using D
 
 ## Project UI
 
-Will be updated later.
+his is the homepage of the application before login. It displays the nutrition search field and basic navigation, and was originally hosted on an AWS URL.
+<p align="center">
+  <img src="./images/page1.png" width="600" alt="Homepage UI Screenshot"/>
+</p>
+
+👉 For more UI screens please navigate to this onedrive link, (https://1drv.ms/f/c/90e734331ddc2501/EhTe4B1bfbxNnng3716WUlUBQEl3AEQEqcVYkbgs7JVK1g?e=AVOcuI)
 
 ## 🛠 Tech Stack
 
@@ -62,8 +67,3 @@ Will be updated later.
 | Monitoring   | AWS CloudWatch                 |
 
 ---
-
-## Local Deployment (Optional)
-
-Clone both repositories and follow individual README instructions to run frontend/backend locally.
-
