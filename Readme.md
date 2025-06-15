@@ -5,9 +5,11 @@
 ⚠️ **Note:** Backend services are currently offline to avoid unnecessary AWS hosting costs.  
 However, both the frontend and backend codebases are available for review.
 
-  <img src="./images/python.png" width="100" alt="React logo"/>
-  <img src="./images/react.png" width="100" alt="React logo"/>
-  <img src="./images/docker.png" width="80" alt="React logo"/>
+<div align="center">
+  <img src="./images/python.png" width="80" alt="Python logo" style="display:inline-block;"/>
+  <img src="./images/react.png" width="80" alt="React logo" style="display:inline-block;"/>
+  <img src="./images/docker.png" width="80" alt="Docker logo" style="display:inline-block;"/>
+</div>
 
 
 ---
